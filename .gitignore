@@ -25,5 +25,3 @@ Thumbs.db
 pipfile.lock
 poetry.lock
 
-# local database
-*.sqlite3
