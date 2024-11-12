@@ -1,0 +1,29 @@
+# environment variables
+.env
+
+# compiled bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# virtual environments
+venv/
+.venv/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# log files
+*.log
+
+# dependency management
+pipfile.lock
+poetry.lock
+
+# local database
+*.sqlite3
